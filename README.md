@@ -61,7 +61,7 @@ astart
 ![avatar](./PRM/path.jpg)
 
 ## Other Backup Codes:
-create_mask: Creat 0/1 mask for initial maps.
-dfs-construction: Use dfs to create road maps and the weight of roads on the basic of 0/1 mask. (But this code is time-consuming)
-generate_graph.py: Quickly generate road maps for demonstration (But can not get the weight of roads) 
-floyd-optimized_path: Use floyd algorithm to get final road planning 
+* create_mask: Creat 0/1 mask for initial maps.
+* dfs-construction: Use dfs to create road maps and the weight of roads on the basic of 0/1 mask. (But this code is time-consuming)
+* generate_graph.py: Quickly generate road maps for demonstration (But can not get the weight of roads) 
+* floyd-optimized_path: Use floyd algorithm to get final road planning 
